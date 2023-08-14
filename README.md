@@ -12,7 +12,7 @@ Repositório para armazenar resumos sobre Git e Github do curso de Versionamento
 
 | Comando | O que faz |
 |-------|---------|
-| CTRL+L ou clear | Limpa o terminal |
+| ```CTRL+L ou clear``` | Limpa o terminal |
 | git clone |Copia um repositório Git existente para um novo diretório local. |
 | git commit |Grava alterações no repositório.  |
 | git pull | "Puxa" as alterações do repositório remoto para o local (busca e mescla).  |
