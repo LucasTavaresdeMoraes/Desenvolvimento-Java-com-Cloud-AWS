@@ -12,12 +12,14 @@ Repositório para armazenar resumos sobre Git e Github do curso de Versionamento
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando alterações no Repositório Local | [Resumo] () |
+| Aula 01 | [Resumo] () |
+| Aula 02 | [Resumo] () |
 
-```
-git init
-```
 
 ## 🔍 Referências
 - [Desenvolvimento Java com Cloud AWS da DIO]()
 
+
+```
+git init
+```
